@@ -15,7 +15,7 @@ The project is built using the Python programming language and aims to develop p
 - **smtplib**: Sending emails
 - **CSV**: Storing data
 - **Requests**: Sending HTTP requests to web pages
-- - **Windows Task Scheduler**: Automating tasks
+- **Windows Task Scheduler**: Automating tasks
 
 
 ## Project Steps
