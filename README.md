@@ -9,11 +9,11 @@ The project is built using the Python programming language and aims to develop p
 
 ## Technologies Used
 
-- **Python**: Basic programming language
-- **Spotipy**: Communicating with Spotify API
+- **Python**: Programming language used for development
+- **Spotipy**: Spotify API integration
 - **BeautifulSoup**: Web scraping
-- **smtplib**: Sending emails
-- **CSV**: Storing data
+- **smtplib**: Email sending
+- **CSV**: Data storage
 - **Requests**: Sending HTTP requests to web pages
 - **Windows Task Scheduler**: Automating tasks
 
@@ -26,7 +26,7 @@ The project is built using the Python programming language and aims to develop p
 
 2. **Web Scraping to Collect Lyrics**:
 
-- I scraped the lyrics of these songs from Alternatifim.com.
+- I scraped the lyrics of these songs from Alternatifim.com.(https://www.alternatifim.com).
 
 3. **Data Processing and Saving to CSV File**:
 
@@ -57,7 +57,7 @@ Automation with Task Scheduler: The script is configured to run on a specific da
 - spoitfy_ahmetKaya_webScraping.py    # Main Python script
 - ahmet_kaya.csv                      # CSV file with 5 popular songs of the week
 - README.md                           # Project description
-- explanation_video.mp4               # Project description
+- explanation_video.mp4               # Project demonstration video
 
 
 ## Conclusion
